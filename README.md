@@ -1,6 +1,6 @@
 # \_tw Typography
 
-A fork of [_tw/typography] (https://github.com/gregsullivan/_tw-typography) for Tailwind css  3which is a fork of [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography) that:
+A fork of [_tw/typography] (https://github.com/gregsullivan/_tw-typography) for Tailwind css  3, which is a fork of [Tailwind Typography](https://github.com/tailwindlabs/tailwindcss-typography) that:
 
 * Removes the `className` argument, replacing it with separate arguments for `postTitleSelector` and `postContentSelector`
 * Uses a plain `body` selector when `postContentSelector` is `false`
